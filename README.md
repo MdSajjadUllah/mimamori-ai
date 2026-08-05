@@ -6,7 +6,7 @@ colorTo: indigo
 sdk: gradio
 app_file: app.py
 pinned: false
-license: mit
+license: None
 ---
 
 # Mimamori AI
