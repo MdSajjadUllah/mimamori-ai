@@ -190,3 +190,9 @@ where the notebook can find it.
 ## Author
 
 Md. Sajjad Ullah — built for the B-JET Cohort 16 Ideathon, August 2026.
+
+## License
+
+All rights reserved. This project is shared for demonstration purposes only.
+Reuse, redistribution, or modification requires explicit written permission
+from the author.
