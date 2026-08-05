@@ -1,0 +1,6 @@
+injected_anomaly,stat_auc,stat_recall,gru_auc,gru_recall,days
+skipped_meals,0.883,0.125,0.651,0.091,88
+late_rise,0.931,0.511,0.666,0.227,88
+low_mobility,0.949,0.602,0.83,0.227,88
+restless_night,0.995,0.966,0.967,0.875,88
+mean,0.94,0.551,0.779,0.355,88

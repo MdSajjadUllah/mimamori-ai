@@ -1,0 +1,3 @@
+condition,messages,sentences,sentences_removed,messages_flagged,flagged_share,faithfulness_before,faithfulness_after
+production,15,32,0,0,0.0,1.0,1.0
+permissive,15,120,83,15,1.0,0.317,1.0

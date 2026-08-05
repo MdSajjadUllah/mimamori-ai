@@ -1,0 +1,44 @@
+{
+  "resident": "R001",
+  "baseline_window_days": 28,
+  "min_baseline_days": 14,
+  "mad_floor": 1.0,
+  "strong_z": 4.0,
+  "moderate_z": 3.0,
+  "medium_cut": 3.7168058204491654,
+  "high_cut": 4.976979162687371,
+  "concerning_direction": {
+    "minutes_bedroom": 1,
+    "minutes_bathroom": 1,
+    "minutes_kitchen": -1,
+    "minutes_dining": -1,
+    "minutes_living_room": -1,
+    "first_exit_minutes": 1,
+    "night_bathroom_visits": 1,
+    "motion_events": -1
+  },
+  "feature_columns": [
+    "minutes_bedroom",
+    "minutes_bathroom",
+    "minutes_kitchen",
+    "minutes_living_room",
+    "minutes_office",
+    "minutes_entrance",
+    "first_exit_minutes",
+    "night_bathroom_visits",
+    "motion_events"
+  ],
+  "zones": [
+    "Bedroom",
+    "Bathroom",
+    "Kitchen",
+    "Dining",
+    "Living Room",
+    "Office",
+    "Entrance",
+    "Other"
+  ],
+  "remote_model": "Qwen/Qwen2.5-7B-Instruct",
+  "statistical_threshold": 4.179947729504958,
+  "gru_threshold": 3.4270846843719482
+}
