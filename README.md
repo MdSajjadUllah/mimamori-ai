@@ -11,8 +11,9 @@ license: other
 
 # Mimamori AI
 
-**Routine monitoring for elderly people living alone — using ambient motion sensors only.
-No cameras. No microphones.**
+> **Live Demo:** https://huggingface.co/spaces/mdsajjadullah/mimamori-ai  
+
+**Privacy-preserving routine monitoring for elderly people living alone using ambient motion sensors. Evidence-grounded AI alerts for caregivers. No cameras. No microphones.**
 
 Mimamori AI learns what a normal day looks like for one person, notices when a day breaks
 that pattern, and writes a plain-language alert for the care team. Before that alert is
